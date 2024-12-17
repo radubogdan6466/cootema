@@ -1,0 +1,4 @@
+requests
+pulp
+selenium
+beautifulsoup4
