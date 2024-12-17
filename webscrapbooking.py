@@ -34,11 +34,14 @@ def airline():
         url = f"https://flights.booking.com/flights/{origin}-{destination}/?type=ONEWAY&adults=1&cabinClass=ECONOMY&children=&from={origin}&to={destination}&fromCountry=RO&toCountry=IT&fromLocationName=Aeroportul+Interna%C5%A3ional+Traian+Vuia+Timi%C8%99oara&toLocationName=Aeroportul+Interna%C8%9Bional+Orio+Al+Serio+Milano&depart={startdate_str}&sort=BEST&travelPurpose=leisure&aid=2430892&label=flights-booking-unknown&ext-tr=AI7DpqIcdGDOquSfhDD8b32bqNuAabHm-_46xJuCNbFS6HZQIfWchFw%3D%3D"
         
         # Chrome Driver . exe
-        chrome_options = webdriver.ChromeOptions()
-        agents = ["Firefox/66.0.3","Chrome/73.0.3683.68","Edge/16.16299"]
-        print("User agent: " + agents[(i % len(agents))])
-        chrome_options.add_argument('--user-agent=' + agents[(i % len(agents))] + '"')
-        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # Rulează Chrome în mod headless (fără interfață grafică)
+        chrome_options.add_argument("--disable-gpu")  # Dezactivează GPU
+        chrome_options.add_argument("--no-sandbox")  # Dezactivează sandboxing-ul (important pentru Colab)
+        chrome_options.add_argument("--disable-dev-shm-usage")  # Probleme de memorie partajată
+        chrome_options.add_argument("--remote-debugging-port=9222")  # Setează portul de debugging
+        chrome_options.binary_location = '/usr/bin/chromium-browser'
+
 
         # When run, hide the browser
         chrome_options.add_argument("--headless")
