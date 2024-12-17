@@ -1,0 +1,28 @@
+{
+    "avion_plecare": [
+        {
+            "data": "2024-12-19",
+            "ora_decolare": "21:50:00",
+            "ora_aterizare": "22:45:00",
+            "pret": 278.2703
+        },
+        {
+            "data": "2024-12-20",
+            "ora_decolare": "21:15:00",
+            "ora_aterizare": "22:10:00",
+            "pret": 327.97029999999995
+        },
+        {
+            "data": "2024-12-21",
+            "ora_decolare": "21:25:00",
+            "ora_aterizare": "22:20:00",
+            "pret": 149.0503
+        },
+        {
+            "data": "2024-12-22",
+            "ora_decolare": "19:05:00",
+            "ora_aterizare": "20:00:00",
+            "pret": 198.7503
+        }
+    ]
+}

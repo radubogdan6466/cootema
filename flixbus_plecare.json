@@ -1,0 +1,364 @@
+{
+    "flixbus_plecare": [
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "04:40:00",
+            "ora_destinatie": "07:35:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "09:00:00",
+            "ora_destinatie": "11:45:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "09:25:00",
+            "ora_destinatie": "12:20:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:35:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:50:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "11:15:00",
+            "ora_destinatie": "14:05:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "14:00:00",
+            "ora_destinatie": "16:50:00",
+            "pret": 213.61059999999998
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "15:25:00",
+            "ora_destinatie": "18:25:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "17:30:00",
+            "ora_destinatie": "20:20:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "18:30:00",
+            "ora_destinatie": "21:20:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "21:55:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "22:10:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "20:20:00",
+            "ora_destinatie": "23:05:00",
+            "pret": 163.9106
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "21:30:00",
+            "ora_destinatie": "00:20:00",
+            "pret": 203.67059999999998
+        },
+        {
+            "data": "2024-12-19",
+            "ora_plecare": "23:35:00",
+            "ora_destinatie": "02:25:00",
+            "pret": 258.3406
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "04:40:00",
+            "ora_destinatie": "07:35:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "09:00:00",
+            "ora_destinatie": "11:45:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "09:25:00",
+            "ora_destinatie": "12:20:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:35:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:50:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "11:15:00",
+            "ora_destinatie": "14:05:00",
+            "pret": 248.40059999999997
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "14:00:00",
+            "ora_destinatie": "16:50:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "15:25:00",
+            "ora_destinatie": "18:25:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "17:30:00",
+            "ora_destinatie": "20:20:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "18:30:00",
+            "ora_destinatie": "21:20:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "21:55:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "22:10:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "20:20:00",
+            "ora_destinatie": "23:05:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "21:30:00",
+            "ora_destinatie": "00:20:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-20",
+            "ora_plecare": "23:35:00",
+            "ora_destinatie": "02:25:00",
+            "pret": 198.70059999999998
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "04:40:00",
+            "ora_destinatie": "07:35:00",
+            "pret": 76.9356
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "09:00:00",
+            "ora_destinatie": "11:45:00",
+            "pret": 89.36059999999999
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "09:25:00",
+            "ora_destinatie": "12:20:00",
+            "pret": 76.9356
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:35:00",
+            "pret": 96.8156
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:50:00",
+            "pret": 96.8156
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "11:15:00",
+            "ora_destinatie": "14:05:00",
+            "pret": 66.9956
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "14:00:00",
+            "ora_destinatie": "16:50:00",
+            "pret": 129.1206
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "15:25:00",
+            "ora_destinatie": "18:25:00",
+            "pret": 66.9956
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "17:30:00",
+            "ora_destinatie": "20:20:00",
+            "pret": 57.0556
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "18:30:00",
+            "ora_destinatie": "21:20:00",
+            "pret": 71.9656
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "21:55:00",
+            "pret": 99.3006
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "22:10:00",
+            "pret": 99.3006
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "20:20:00",
+            "ora_destinatie": "23:05:00",
+            "pret": 151.4856
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "21:30:00",
+            "ora_destinatie": "00:20:00",
+            "pret": 141.5456
+        },
+        {
+            "data": "2024-12-21",
+            "ora_plecare": "23:35:00",
+            "ora_destinatie": "02:25:00",
+            "pret": 109.2406
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "04:40:00",
+            "ora_destinatie": "07:35:00",
+            "pret": 71.9656
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "09:00:00",
+            "ora_destinatie": "11:45:00",
+            "pret": 59.5406
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "09:25:00",
+            "ora_destinatie": "12:20:00",
+            "pret": 54.5706
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:35:00",
+            "pret": 62.0256
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "09:55:00",
+            "ora_destinatie": "12:50:00",
+            "pret": 62.0256
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "11:15:00",
+            "ora_destinatie": "14:05:00",
+            "pret": 111.7256
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "14:00:00",
+            "ora_destinatie": "16:50:00",
+            "pret": 168.8806
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "15:25:00",
+            "ora_destinatie": "18:25:00",
+            "pret": 71.9656
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "17:30:00",
+            "ora_destinatie": "20:20:00",
+            "pret": 66.9956
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "18:30:00",
+            "ora_destinatie": "21:20:00",
+            "pret": 57.0556
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "21:55:00",
+            "pret": 76.9356
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "19:20:00",
+            "ora_destinatie": "22:10:00",
+            "pret": 76.9356
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "20:20:00",
+            "ora_destinatie": "23:05:00",
+            "pret": 134.0906
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "21:30:00",
+            "ora_destinatie": "00:20:00",
+            "pret": 151.4856
+        },
+        {
+            "data": "2024-12-22",
+            "ora_plecare": "23:35:00",
+            "ora_destinatie": "02:25:00",
+            "pret": 111.7256
+        }
+    ]
+}
